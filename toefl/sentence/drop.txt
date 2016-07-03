@@ -1,0 +1,1 @@
+Sediments are also dropped where a river slows on entering a lake or the sea. 砂石就随着水流速度的减慢逐渐沉淀。

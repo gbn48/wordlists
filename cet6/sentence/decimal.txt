@@ -1,0 +1,10 @@
+
+1. In 1971, the 1p and 2p decimal coins were introduced in Britain. 英国于1971年开始使用十进制的1便士和2便士硬币。 
+2. A pocket calculator only works to eight decimal places. 袖珍计算器只能计算到小数点后8位数。 
+3. The decimal 0.61 stands for 61 hundredths. 小数0.61代表61%。 
+1. Someone has added a decimal place somewhere. 
+2. Each adjustment of the decimal corresponds to an order of magnitude. 
+3. Three mathematicians "invented" decimal fractions. 
+1. If you calculate the result to two decimal places, that should minimize any possible errors. 如果把结果算在小数点后两位数，将最低程度地减少可能的误差。 
+2. The figure is account to six places of decimals. 这个数字精确到小数点后六位。 
+3. The course will help students develop mathematical skills including the use of decimals, fractions, percentages and simple statistics. 这一课程将帮助学生提高算术技巧，包括小数、分数、百分数和简单的统计学。

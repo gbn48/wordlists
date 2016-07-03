@@ -1,0 +1,3 @@
+photo=photograph
+[ˈfəʊtəʊ]
+n.照片

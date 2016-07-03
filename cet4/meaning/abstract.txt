@@ -1,0 +1,2 @@
+abstract
+a.抽象的 n.摘要 

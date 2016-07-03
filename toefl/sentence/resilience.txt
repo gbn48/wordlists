@@ -1,0 +1,1 @@
+This kind of stability is also called resilience. 这种稳定性也被称作恢复力。

@@ -1,0 +1,7 @@
+
+1. The range can be increases by use of a shunt. 量程可以通过加上一个分流器来增大. 
+2. The effect is the same as that of placing a shunt resistor across the active gage. 效果相当于跨工作应变片加了一个分流电阻器一样. 
+3. But right the specific understanding of shunt period, endless and identical. 但对转轨期的具体理解, 不尽相同. 
+1. They got a big shunt on, the crowd goes wild. 
+2. The routers shunt incoming messages to links heading toward the messages' final destinations. 
+3. Veins around the throat and in the anus dilate in an attempt to shunt blood around the liver.

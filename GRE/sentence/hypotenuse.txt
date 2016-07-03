@@ -1,0 +1,6 @@
+
+1. The hypotenuse is the longest side of a right triangle. 直角三角形的斜边是直角三角形中最长的边. 
+2. Compute the lengths of the hypotenuse and the other small side. 计算斜边和其它小的边的长度. ) 
+3. Either side of a right triangle that is hypotenuse. 直角边直角三角形除斜边之外的两条边的任意一条. 
+1. From a long distance they merge into the hypotenuse. 
+2. Otherwise, it is a curve. In the example given, the hypotenuse of the right triangle is not the shortest distance bec.

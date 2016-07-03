@@ -1,0 +1,3 @@
+bullet
+['bulit]
+n子弹,枪弹

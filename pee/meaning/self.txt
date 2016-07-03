@@ -1,0 +1,3 @@
+self
+[self]
+n自我，自己(plselves)

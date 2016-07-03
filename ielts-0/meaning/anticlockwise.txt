@@ -1,0 +1,2 @@
+anticlockwise
+逆时针方向的 

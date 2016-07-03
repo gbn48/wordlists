@@ -1,0 +1,3 @@
+sleep(slept,slept)
+[sliːp]
+vi.睡觉

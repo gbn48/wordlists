@@ -1,0 +1,2 @@
+perimeter
+n.周(边)，周长

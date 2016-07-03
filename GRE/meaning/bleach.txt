@@ -1,0 +1,5 @@
+bleach
+
+英 [ bli:tʃ ]
+美 [ blitʃ ]
+v.漂白

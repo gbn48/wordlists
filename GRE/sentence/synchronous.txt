@@ -1,0 +1,7 @@
+
+1. The message can be used only with synchronous operations . 消息只能与同步操作一起使用。 
+2. A synchronous motor drives the measuring bob at a constant rotational speed. 同步马达驱动测锤以恒速旋转. 
+3. Polling is a synchronous mechanism, where devices are serviced in sequence. 查询是一种同步机构, 其中的各个设备是依次接受服务的. 
+1. Breeding is synchronous, as is parturition and nursing. 
+2. Inertial velocity is thus distinct from synchronous gravitational mass. 
+3. The only alternative is a discontinuous and synchronous universe.

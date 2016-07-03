@@ -1,0 +1,3 @@
+mutually exclusive
+
+互相排斥

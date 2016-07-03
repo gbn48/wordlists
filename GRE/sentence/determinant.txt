@@ -1,0 +1,7 @@
+
+1. This determinant is a special case of the resultant of two polynomials. 这个行列式是两个行列式的结式的特殊情形. 
+2. The main stem and fruiting branches of determinant types remain relatively short. 有限生长类型的主茎和果枝仍然较短. 
+3. The determinant can be evaluated from the cofactors of any column. 行列式可根据任何一列余因子来求算. 
+1. Ethnicity is a powerful determinant of how societies perceive others. 
+2. The most important determinant of risk is destination. 
+3. Genome architecture is thought to be a major determinant in this.

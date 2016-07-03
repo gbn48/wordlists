@@ -1,0 +1,3 @@
+sing(sang,sung)
+[sɪŋ]
+v.唱，唱歌

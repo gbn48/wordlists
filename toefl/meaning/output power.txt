@@ -1,0 +1,3 @@
+output power
+
+输出功率；出力

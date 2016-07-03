@@ -1,0 +1,3 @@
+static
+['stætik]
+a(statical)静态的,静力的

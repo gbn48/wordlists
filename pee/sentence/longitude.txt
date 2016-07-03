@@ -1,0 +1,9 @@
+
+1. the longitude of the island 那座岛的经度 
+2. All places on the same meridian have the same longitude. 在同一子午线上的地方都有相同的经度. 
+3. The longitude of New York is 74 degrees west of Greenwich. 纽约的经度是西经74度. 
+1. Longitude is convincing hybrid music with lashings of energy, originality and resonance. 
+2. Degrees, minutes, seconds of a circle; incl., latitude, longitude. 
+3. It is based on the theory of meridians, or pathways, that run through the body like longitude lines on a globe. 
+1. Terrestrial longitude is measured in degrees east or west of the Greenwich meridian. 地球的经度是用格林尼治子午线向东或向西的度数来表示的。 
+2. The city is at longitude 21° east. 这个城市位于东经21度。

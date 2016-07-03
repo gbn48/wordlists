@@ -1,0 +1,3 @@
+from scratch
+
+从头开始，从零开始

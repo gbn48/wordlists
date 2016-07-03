@@ -1,0 +1,3 @@
+blueprint
+['blu:print]
+n蓝图，设计图，计划 vt制成蓝图，计划

@@ -1,0 +1,1 @@
+Architecture utilizes space, mass, texture, line, light, and color. 建筑利用空间、质量、纹理、线条、光线和颜色几个元素。

@@ -1,0 +1,5 @@
+decibel
+
+英 [ ˈdesɪbel ]
+美 [ ˈdɛsəbəl, -ˌbɛl ]
+n.分贝(音量的单位)

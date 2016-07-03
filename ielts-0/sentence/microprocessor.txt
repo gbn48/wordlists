@@ -1,0 +1,7 @@
+
+1. I've got a typerwriter with a microprocessor. 我有一台装有微处理机的打字机. 
+2. A microprocessor will check for interrupts at the end of every instruction. 微处理器将在每一个指令末尾检查有无中断. 
+3. The microprocessor itself , labeled MPU , appears on the left of the illustration. 标有 MPU 的微处理器本身表示在图的左侧. 
+1. They aren't microprocessor companies with years of patent-protected intellectual property. 
+2. Without the microprocessor, however, it was hard to implement. 
+3. Both devices will contain the same software and microprocessor as the new TV sets.

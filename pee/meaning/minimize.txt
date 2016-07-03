@@ -1,0 +1,3 @@
+minimize
+['minimaiz]
+v(minimize)使减少到最少,使降到最低

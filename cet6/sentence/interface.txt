@@ -1,0 +1,9 @@
+
+1. The different components all have to interface smoothly. 不同的部件都必须能顺利接合。 
+2. The system uses an impressive graphical interface. 这一系统采用了特别好的图形界面。 
+3. the interface between computer and printer 计算机和打印机之间的接口 
+1. To get to the other side of the interface. 
+2. That said, the interface is easy to use. 
+3. People Finder has a very basic but accessible interface. 
+1. My computer has a network interface,which allows me to get to other computers. 我的计算机有网络接口，可以与其他计算机连在一起。 
+2. The new version of the program comes with a much better user interface than the original. 新版程序的用户界面比原来程序的好得多。

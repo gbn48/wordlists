@@ -1,0 +1,3 @@
+hide(hid,hidden)
+[haɪd]
+v.把…藏起来，隐藏

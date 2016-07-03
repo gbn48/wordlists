@@ -1,0 +1,7 @@
+
+1. We chose a few of the commonest lexical items in the languages. 我们选取了各语言中最常见的几个词汇。 
+2. The scanner is sometimes called a lexical analyzer. 扫描程序有时又把它称为词法分析程序. 
+3. Perspective taking is closely related to the process of lexical choice. 视角的选取与词汇选择过程密切相关. 
+1. There's also a lexical component to the sound of revolution. 
+2. There are no semantic obstacles, lexical difficulties, or syntactical challenges. 
+3. In the Oxford English Dictionary there are nearly half a million lexical units.

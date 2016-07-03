@@ -1,0 +1,3 @@
+set(set,set)
+[set]
+vt.释放，安置n.装备，设备

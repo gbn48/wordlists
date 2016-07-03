@@ -1,0 +1,2 @@
+commander
+n.司令官，指挥员 

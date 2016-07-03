@@ -1,0 +1,6 @@
+
+1. MEI is an effective numerical method to truncate finite difference mesh. 方法是一种有效的用于边界截断的数值计算方法. 
+2. Conversions from floating - point numbers to integer values truncate the number toward zero. 从 浮点数 向整数值的转换将向零截断数字. 
+3. Truncate insignificant trailing zero when using null scale. 使用空刻度时截去多余的零结尾. 
+1. The battle...lasted long enough to give the allies time to truncate Iraq's military. 
+2. The data model is lossless - it does not attempt to truncate or simplify any of the extensive detail within partners' catalogues.

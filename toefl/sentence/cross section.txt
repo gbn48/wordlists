@@ -1,0 +1,1 @@
+We can determine a tree's age by counting the rings on a cross section of its trunk. 我们可以通过数树干横截面的年轮来确定树的年龄。

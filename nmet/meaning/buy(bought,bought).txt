@@ -1,0 +1,3 @@
+buy(bought,bought)
+[baɪ]
+vt.买

@@ -1,0 +1,5 @@
+
+1. The sidereal year is not used to construct a calendar. 恒星年不用于编制年历. 
+2. A sidereal day is about 4 minutes shorter than a solar day. 一个恒星日比一个太阳日大约短4分钟. 
+3. A sidereal day is shorter than a mean solar day by 3 minutes and 56 seconds. 恒星日比平均太阳日短三分五十六秒. 
+1. The sidereal periods of the planets may be obtained...by observing their passages.

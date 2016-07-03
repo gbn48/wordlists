@@ -1,0 +1,2 @@
+rectangle
+n.矩形，长方形

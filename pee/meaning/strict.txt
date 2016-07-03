@@ -1,0 +1,3 @@
+strict
+[strikt]
+a(with)严格的,严厉的;严谨的,精确的

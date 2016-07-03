@@ -1,0 +1,7 @@
+
+1. The magnetic field of the earth creates a torque around the pivot. 地球的磁场在支点周围产生一个转矩. 
+2. The error torques include mass unbalances, compliances, bias torque, etc. 误差力矩包括质量不平衡, 柔性, 偏置力短, 等等. 
+3. The pendulum - torque type of erector is extensively employed on gyro verticals. 陀螺垂直器上广泛地采用由摆和力矩马达组成的修正装置. 
+1. This type of craft doesn't require high-torque. 
+2. Mostly they just don't understand the huge torque involved. 
+3. These are very low-torque, medium-speed motors.

@@ -1,0 +1,7 @@
+
+1. You'll be a negotiating maven if you do this. 掌握了这些要领，你将成为一个谈判高手。 
+2. Multiple web modules based on maven, single module can be run and deploy. 基于maven的多模块Web应用, 独立模块可以单独运行及发布. 
+3. She authored a best - selling book, Entertaining , with long - time fashion maven Elizabeth Hawes. 她和一位资深的时尚专家伊丽莎白·霍丝合著了一本 畅销书 . 
+1. Purcell founded her own fashion line, Maven. 
+2. The US space agency will launch a new mission to Mars at the end of the year called Maven. 
+3. Six members died, including glass giant William Davidson and newspaper maven Frank Batten Sr.

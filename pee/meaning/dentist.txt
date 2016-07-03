@@ -1,0 +1,3 @@
+dentist
+['dentist]
+n牙医

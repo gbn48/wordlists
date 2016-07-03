@@ -1,0 +1,5 @@
+
+1. Now we need a vertex buffer. 现在我们需要一个顶点缓冲. 
+2. A graph is regular if every vertex has the same degree. 如果一个图的每个顶点都具有相同的度数,则称它是正则图. 
+3. A vertex with zero outdegree is called a sink. 出度为零的顶点称作收点. 
+1. Elfride, the fickle vertex of a love triangle, spends her days hiking around towers, dropping the odd symbolic earring.

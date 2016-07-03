@@ -1,0 +1,7 @@
+
+1. Each half reaction responds to the interfacial potential at the corresponding electrode. 每个半反应都与相应电极上的界面电势差相呼应. 
+2. In this case, a flow of electrons from electrode to solution occurs. 这样, 就发生从电极到溶液的电子流动. 
+3. The calomel electrode has a small pinhole opening or wick. 甘汞电板上有一个针孔或砂芯. 
+1. Experience in electrode design and membrane design will be appreciated. 
+2. Instead it lays an artifical cell membrane atop a gold electrode. 
+3. Even Hydolyitic and fuel cell units will put a big strain on electrode ressources.

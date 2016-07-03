@@ -1,0 +1,5 @@
+
+1. It is like a chemical reagent. 这就像是一种化学试剂. 
+2. Unless reagent grade sucrose is available use cane sugar. 如果没有试剂级的蔗糖,可以用甘蔗糖. 
+3. This bifunctional reagent links protein molecules to one another. 这种双用试剂把蛋白质分子彼此连接起来. 
+1. Provide closed-loop communication between reagent suppliers and Ion Torrent.

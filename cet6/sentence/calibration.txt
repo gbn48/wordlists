@@ -1,0 +1,7 @@
+
+1. It can be corrected to allow for any small drift in calibration. 它可对标定中出现的任何小漂移进行修正. 
+2. It is advisable to check the instrument by frequent calibration. 最好通过经常的校准来检查仪器. 
+3. These data can be plotted to form a calibration curve. 这些数据可以绘制成一校准曲线. 
+1. Perform the calibration of measure instrument. 
+2. Set up and maintain QC tools and instruments calibration and maintenance method. 
+3. This "calibration" must be prepared as an offline process in advance.

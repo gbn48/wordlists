@@ -1,0 +1,1 @@
+One way we keep track of the radiation budget is by looking at the albedo of the different surfaces on the planet. 我们记录辐射平衡的方法之一就是通过观测地球不同表面的反照率。

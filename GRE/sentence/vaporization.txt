@@ -1,0 +1,4 @@
+
+1. The atomization process is more sensitive to disturbance than vaporization. 雾化过程比汽化过程对扰动更为敏感. 
+2. Three factors affect ignition, fuel vaporization, sparkplug location and spark energy. 影响点火的因素有三个, 即燃油的蒸发 、 火花塞的位置和火花能量. 
+3. A similar definition holds good for latent heat of vaporization. 气化潜热的定义与此雷同.

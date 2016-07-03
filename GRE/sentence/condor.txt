@@ -1,0 +1,7 @@
+
+1. The condor soars above the mountain heights. 禿鹰翱翔于高山之上. 
+2. Condor provides powerful resource management by match - making resource owners with resource consumers. 通过在资源拥有者和资源消费者之间创建匹配,Condor提供 了强大的资源管理. 
+3. Condor simplifies job submission by acting as a matchmaker of ClassAds. Condor通过扮演ClassAd中间人的方式来简化任务提交. 
+1. The condor is primarily a scavenger, feeding on carrion. 
+2. Three Days of the Condor Tremendous conspiracy thriller. 
+3. The endangered California condor has been sighted.

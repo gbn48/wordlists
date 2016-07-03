@@ -1,0 +1,10 @@
+
+1. Take a hundred and twenty values and calculate the mean. 取120个值计算平均数。 
+2. From this you can calculate the total mass in the Galaxy. 由此你可以算出银河系的总质量。 
+3. Use the formula to calculate the volume of the container. 用公式计算容器的容积。 
+1. This might seem like an easy figure to calculate. 
+2. Don't you calculate acidity via negative log of ? 
+3. She learned to calculate using an abacus, he says. 
+1. The boy is only three but he can already calculate to fifty. 这孩子虽然只有3岁,但已经能数到50了。 
+2. That book calculates as a masterpiece. 那本书算得上是杰作。 
+3. Emotional people don't stop to calculate. 感情容易冲动的人做事往往不加考虑。

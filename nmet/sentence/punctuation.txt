@@ -1,0 +1,3 @@
+punctuation 
+ ['pʌŋktʃʊ'eʃən] 
+n.标点符号

@@ -1,0 +1,5 @@
+
+1. Mnemonics is important in learning English. 记忆术对学英语很重要。 
+2. Mnemonics are made up of letter to represent the operation code. 助记码是由字母组成,以代表操作码. 
+3. However, the mnemonics are not necessary for a complete automated analysis. 不过, 对于一个完全自动化分析来说,助记码不是必需的. 
+1. There are various mnemonics to remember that stuff.

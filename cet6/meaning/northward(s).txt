@@ -1,0 +1,2 @@
+northward(s)
+ad.向北方 a.向北的

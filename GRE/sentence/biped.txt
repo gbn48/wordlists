@@ -1,0 +1,7 @@
+
+1. A biped is a creature with two legs. 两足动物指的是有两只脚的动物。 
+2. Biped robot with heterogeneous legs ( BRHL ) is a new pattern humanoid robot. 异构双腿行走机器人 ( BRHL ) 是一种全新的类人机器人模式. 
+3. The gait of a biped robot climbing stairs consists of foot trajectory and hip trajectory. 将双足机器人上楼梯的步态规划问题分解为脚踝运动轨迹和臀部运动轨迹的规划问题. 
+1. Biped locomotion is much later in evolutionary history. 
+2. Tommo, try the BIPED website as a non-religious home page for the various ID theories and related links. 
+3. Only one mammal in is a true biped, only one in two million have a written language, only one.

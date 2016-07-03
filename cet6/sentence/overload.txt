@@ -1,0 +1,7 @@
+
+1. There is an internal circuit breaker to protect the instrument from overload. 内置有断路器，防止设备过载。 
+2. Never overload an electrical socket. 千万不要使电源插座过载。 
+3. 57 per cent complained of work overload. 57%的人抱怨工作负担过重。 
+1. If you overload it you can short it out. 
+2. Digital Overload is both a problem and an opportunity. 
+3. It's almost like a sensory overload type thing.

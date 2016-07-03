@@ -1,0 +1,5 @@
+influx
+
+英 [ ˈɪnflʌks ]
+美 [ ˈɪnˌflʌks ]
+n.注入，涌入

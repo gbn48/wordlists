@@ -1,0 +1,7 @@
+
+1. In this application, the carrier is used to encapsulate the grid. 在这种情况下, 要用载体把格栅密封起来. 
+2. A delegate instance may encapsulate either static or instance method. 委托实例可以封装静态或实例方法. 
+3. It may be desirable to encapsulate larger sequences of commands. 存在着封装更大规模的命令序列的需求. 
+1. It does more than just encapsulate Hamilton's lifelong fascinations. 
+2. They encapsulate fairness and recognise the special needs of older people. 
+3. It should encapsulate the English attitude to and relationship with the seaside.

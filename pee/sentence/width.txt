@@ -1,0 +1,9 @@
+
+1. The road was reduced to 18ft in width by adding parking bays. 这条路增加了停车区后宽度缩减到了18英尺。 
+2. Allow for some shrinkage in both length and width. 长、宽上都预留出一定的缩水量。 
+3. Measure the full width of the window. 测量一下窗户的全宽。 
+1. Large round eyes, opened to their utmost width. 
+2. Height and width SHOULD be defined by the CSS. 
+3. No width and no headers apart from corners. 
+1. We can't get it through the door because of its width. 我们无法使它通过门,因为它太宽了。 
+2. The road has a width of twenty feet. 那条路的宽度有20英尺。

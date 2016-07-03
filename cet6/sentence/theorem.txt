@@ -1,0 +1,7 @@
+
+1. I agree with the theorem that the best defence is offence. 我同意最好的防御是进攻的理论. 
+2. His theorem can be translated into simple terms. 他的定理可用更简单的术语来解释. 
+3. By the corollary to Theorem 4.3, the origin is asymptotically stable. 根据定理4.3的推论, 原点是渐近稳定的. 
+1. This is also the equation for the Pythagorean theorem. 
+2. That's all Bell's Theorem really gives us. 
+3. But upon closer inspection Young's Theorem breaks down.

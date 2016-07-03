@@ -1,0 +1,7 @@
+
+1. I simply couldn't parse what you just said. 我完全无法对你刚说的话作语法分析。 
+2. It causes the parser to parse an NP. 它调用分析程序分析一个名词短语. 
+3. Be mindful if you use the free parse functions. 紧记,如果你使用自由的parse函数. 
+1. But computers can't parse text the way we can. 
+2. Thais parse his words for indications of his political views. 
+3. But it is, or at least it's complicated to parse.

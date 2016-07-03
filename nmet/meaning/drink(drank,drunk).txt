@@ -1,0 +1,3 @@
+drink(drank,drunk)
+[drɪŋk]
+v.喝，饮

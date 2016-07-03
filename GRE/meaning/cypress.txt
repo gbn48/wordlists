@@ -1,0 +1,5 @@
+cypress
+
+英 [ ˈsaɪprəs ]
+美 [ ˈsaɪprɪs ]
+n.柏树

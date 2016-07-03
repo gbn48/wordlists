@@ -1,0 +1,4 @@
+
+1. Octal numbers are identified by a trailing 8 subscript. 八进制数由一个附加的下标8来识别. 
+2. The subscript O and W identify the unweathered and weathered states. 下标O和W分别表示属于未风化和已风化的状态. 
+3. In a single - species fluid, the subscript may be dropped. 对于 单组分 流体, 这个下标可以省略.

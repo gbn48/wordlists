@@ -1,0 +1,7 @@
+
+1. the coefficient of friction 摩擦系数 
+2. A coefficient of one means the markets move perfectly in step. 系数为1表示各个市场的步调完全一致。 
+3. The distribution coefficient equation is still valid for any value of n. 对任一级n,分配系数关系式仍然是成立的. 
+1. The effective straggling coefficient...was calculated from this extrapolated curve. 
+2. But the Gini coefficient is not just used by economists. 
+3. They have the drag coefficient lower than anyone.

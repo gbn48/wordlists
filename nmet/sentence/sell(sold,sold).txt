@@ -1,0 +1,3 @@
+sell(sold,sold)
+[sel]
+v.卖，售

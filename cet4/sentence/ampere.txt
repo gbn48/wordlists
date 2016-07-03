@@ -1,0 +1,5 @@
+
+1. This piece of equipment needs a thirty - ampere fuse. 这设备需要30安培的熔丝. 
+2. The units in which we show voltage and current are volt and ampere respectively. 我们用以表示电压和电流的单位分别为伏特和安培。 
+3. Isabel, with her eyes bent, fingered the pages of M ? Ampere. 伊莎贝尔垂下了眼皮, 用手指 拨弄 着安培的书. 
+1. The current in the wire has to be very low, in milli-ampere range, bec.

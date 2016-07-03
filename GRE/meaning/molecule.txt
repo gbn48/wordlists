@@ -1,0 +1,5 @@
+molecule
+
+英 [ ˈmɒlɪkju:l ]
+美 [ ˈmɑ:lɪkju:l ]
+n.分子

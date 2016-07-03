@@ -1,0 +1,7 @@
+
+1. Make sure the capacitor bank is voltage-free. 确信电容器组不带电压。 
+2. The second resistor has been replaced by a capacitor. 第二个电阻已由一个电容所代替. 
+3. This arrangement is known as a parallel - plate capacitor. 这种装置称为平行板电容器. 
+1. One alternative as a kind of super capacitor. 
+2. Never the less, this guy invented the monopole capacitor. 
+3. You will support the development of the sustainable and safe hybrid super-capacitor.

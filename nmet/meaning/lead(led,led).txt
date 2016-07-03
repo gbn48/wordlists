@@ -1,0 +1,3 @@
+lead(led,led)
+[liːd]
+v.领导，带领n.铅

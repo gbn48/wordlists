@@ -1,0 +1,7 @@
+
+1. A common misconception is that there is something inherently electrical about a watt or kilowatt. 通常有一个错误的认识,以为瓦和千瓦是专门用在电上的. 
+2. A one - kilowatt stand - alone PV system with UC as energy storage was developed. 以超级电容器作为储能装置,进行了千瓦级独立光伏系统的研制. 
+3. It cooked the remote - controlled aircraft using a somewhat feeble 1 - kilowatt beam. 激光复仇者能用稍弱的1千瓦光速把远程控制的飞机烤焦. 
+1. The customer cares about their cost per kilowatt hour. 
+2. Kilowatts measure power, kilowatt-hours measure energy. 
+3. The tariff for surplus electricity exported to the national grid will remain at 3.1p per kilowatt-hour.

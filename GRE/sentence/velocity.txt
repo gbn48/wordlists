@@ -1,0 +1,8 @@
+
+1. Acceleration and velocity are both vectors. 加速度和速度都是矢量。 
+2. the velocity of light 光速 
+3. Einstein's theory links energy with mass and velocity of light. 爱因斯坦的理论把能量同质量和光速联系起来. 
+1. Inertial velocity is thus distinct from synchronous gravitational mass. 
+2. Temperature correlates to atomic particle velocity and photon energy. 
+3. So very, very close to the limiting velocity. 
+1. A bullet goes from this gun with a velocity of 3000 feet per second. 此枪发出的子弹，其速度为每秒3000英尺。

@@ -1,0 +1,1 @@
+There is no built-in support for transactions or encryption. 对于事务或加密的内置支持是不存在的。

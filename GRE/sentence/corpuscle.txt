@@ -1,0 +1,4 @@
+
+1. Cast preparation of the glomerular vessels ( glomerulus ) in a renal corpuscle. 铸造编制肾小球船只 ( 肾小球 ) 在肾小体. 
+2. Auto - segmentation of poor quality blood corpuscle image was achieved. 结果:实现了低质量血细胞图像的自适应分割. 
+3. Objective To prepare the liquefier of KX - 21 automatic digital corpuscle count instrument. 目的研制适用于KX-21全自动电子血细胞计数仪的稀释液.

@@ -1,0 +1,1 @@
+In this case, they would be restricted to only running in the global environment. 在这种情况下，这将限制为仅在全局环境中运行。

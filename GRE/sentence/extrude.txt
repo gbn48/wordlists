@@ -1,0 +1,4 @@
+
+1. Land masses extrude into the sea. 大片陆地延伸到海里. 
+2. One tool of paramount importance Meshes is the Extrude command ( EKEY ). 挤压工具 ( EKEY ) 于多边形建模来讲是非常重要的. 
+3. It adopts outer pipe co - extrude technology, improving the joint stress among layers. 采用的外管共挤技术, 提高了管材的层间结合强度.

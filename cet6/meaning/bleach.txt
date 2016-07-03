@@ -1,0 +1,2 @@
+bleach
+vt.漂白 vi.变白

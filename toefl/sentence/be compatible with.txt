@@ -1,0 +1,1 @@
+All this was compatible with older devices so long as there was only one authoritative timekeeper. 所有这些用老的仪器都是可以一致的，只要只有一个权威的时间记录者。

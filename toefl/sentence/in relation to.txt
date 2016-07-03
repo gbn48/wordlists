@@ -1,0 +1,1 @@
+The constraining factors for performance are the number of concurrent database connections and available memory in relation to incoming data volume. 性能的限制因素包括并发数据库连接数量以及有关进入数据音量的可用记忆。

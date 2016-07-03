@@ -1,0 +1,7 @@
+
+1. The bomb has a fail - safe device that prevents any forced entry. 炸弹有 防 故障装置,可以防止强行破坏. 
+2. This cab signaling device is fail - safe and has highly reliability and - interference . 数字化双制式机车信号符合故障 - 安全原则,可靠性高, 抗干扰能力强. 
+3. Essentially, the FADEC is a self - monitoring, self - operating, redundant fail safe setup. “基本上, fadec是 一个 自我 监控, 自我 经营, 多余的失败安全设置”. 
+1. There is no fail-safe process for reinventing your career. 
+2. Doomed to fail, that's what everyone said. 
+3. On this showing, 'big journalism' is safe.

@@ -1,0 +1,3 @@
+strip
+[strip]
+v剥,剥去 n窄条,条纹

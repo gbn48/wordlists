@@ -1,0 +1,4 @@
+
+1. The workpiece is already on the lathe. 工件已经上了车床. 
+2. We used grinding machines only to smooth and finish a workpiece. 我们只是用磨床将工件抛光和精加工. 
+3. The carriage feeds the tool while the workpiece rotates. 当工件旋转时,拖板送进刀具.

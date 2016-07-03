@@ -1,0 +1,4 @@
+
+1. Press the "reload" button on your web browser to refresh the site and get the most current version. 点击网页浏览器上的“刷新”按钮来刷新页面，显示最新的版本。 
+2. For simplicity in the design, the refresh is usually performed from a dedicated memory. 为了简化设计, 通常由一个专用存贮器进行刷新. 
+3. To retrieve the latest copy of the list, click Refresh. 若要检索此列表的最新副本, 请单击“刷新”.

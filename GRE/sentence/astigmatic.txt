@@ -1,0 +1,3 @@
+
+1. Using astigmatic method to extract information of light source in z axis. 用散光的方法来提取光源在Z轴上的位置。 
+2. The resonator ( astigmatic ) can be compensated by inserting a suitable thickness Brewster plate in the cavity. 在腔内插入一定厚度的布儒斯特片可以部分消除腔的像散.

@@ -1,0 +1,3 @@
+dividend
+['dividend]
+n红利，股息；回报，效益；被除数

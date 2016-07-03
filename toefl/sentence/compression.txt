@@ -1,0 +1,1 @@
+The following example shows how to create partition table with compression. 下面的例子展示了如何创建压缩的分区表。

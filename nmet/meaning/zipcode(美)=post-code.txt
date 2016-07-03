@@ -1,0 +1,3 @@
+zipcode(美)=post-code
+[zɪpkəʊd]
+(英)邮政区号

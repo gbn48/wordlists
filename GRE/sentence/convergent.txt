@@ -1,0 +1,7 @@
+
+1. A curved-inwards wall has a convergent effect on wall spray. 凹型壁面对碰壁喷雾有聚集作用。 
+2. We shall study a very particular kind of sequences, called convergent sequences. 我们将研究称为收敛数列的很特别的一类数列. 
+3. If a sequence is not convergent, it is divergent. 如果一个序列不收敛, 我们称它发散. 
+1. Mary massaged his back...with convergent movements of her thumbs. 
+2. I am not aware of any convergent species breeding. 
+3. They must be put down to "convergent evolution".

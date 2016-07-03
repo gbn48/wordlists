@@ -1,0 +1,7 @@
+
+1. A red wire is often attached to the anode. 红色电线通常与阳极相联. 
+2. The reverse process may proceed at the anode. 相反的过程也会在阳极上发生. 
+3. The applied pressure acts on a diaphragm which in turn moves the anode pin. 施加的压力作用在一个膜片上,于是该膜片就移动阳极管脚. 
+1. Graphene, a carbon structure in which the atoms lie in thin sheets of hexagons, formed the anode. 
+2. O The anode and the cathode aren't solutions, they consist of metal or coal. 
+3. There are just not enough anode and cathode metal ressources in the world to equip vehicles with batteries.

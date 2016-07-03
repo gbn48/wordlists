@@ -1,0 +1,3 @@
+maze training
+
+n. 迷宫训练

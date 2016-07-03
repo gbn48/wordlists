@@ -1,0 +1,2 @@
+stiffness
+n.硬度

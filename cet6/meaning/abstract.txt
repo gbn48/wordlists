@@ -1,0 +1,2 @@
+abstract
+a.理论上的 n.抽象

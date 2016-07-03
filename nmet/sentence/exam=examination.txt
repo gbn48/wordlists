@@ -1,0 +1,3 @@
+exam=examination
+[ɪɡzæmɪˈneɪʃ(ə)n]
+n.考试，测试；检查；审查

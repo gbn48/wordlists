@@ -1,0 +1,3 @@
+chairwoman(pl.chairwomen)
+['tʃɛəˌwumən]
+n.女主席,女会长；女议长

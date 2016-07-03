@@ -1,0 +1,1 @@
+This pattern is known as Bode's Law. 这个模型被称为波得定律。

@@ -1,0 +1,1 @@
+Pressing a key of a harpsichord causes a tiny quill that's connected to the key to pluck the strings that are inside the instrument. 当按下大键琴某一个键时，与这个键相连接的琴拔就会拨动某一根安装在乐器内部的琴弦。

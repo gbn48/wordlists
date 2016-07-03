@@ -1,0 +1,4 @@
+
+1. An achromatic conformal optical system working within infrared waveband was designed by him. 他设计了一个红外波段消色差共形光学系统。 
+2. A doubly achromatic magnetic deflection system with three sector magnet is described. 描述了一个三扇形磁铁消色差磁偏转系统. 
+3. CCR : Short for Complementary Colour Removal. A method of achromatic separations by Hell Company. 是英文字义“除去补色”的简称.是“海尔”公司所用的一种消色分色法.

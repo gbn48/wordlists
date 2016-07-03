@@ -1,0 +1,7 @@
+
+1. The effect of the diffusion capacitance can be troublesome. 扩散电容会引起麻烦. 
+2. Both the inertance and capacitance effects are time - dependence. 惯性和容量的效应都是随时间而变化的. 
+3. Sampling of propellants under typical operating conditions may be necessary to obtain valid capacitance information. 为了获得有效的容量资料,在典型的工作条件下对推进剂取样是很必要的. 
+1. In fact neurotransmission is equivalent to resistance-capacitance circuit in classical electrodynamics. 
+2. Local capacitance is critical IMCO, but the issue of efficiency is valid. 
+3. To suppress those states one must act in a way that can increase capacitance.

@@ -1,0 +1,7 @@
+
+1. The scientists want to locate the position of the gene on a chromosome. 科学家们希望找出该基因在染色体中的位置。 
+2. At this point esch chromosome consist of a pair of chromatids and the two associated chromosomes are termed a tetrad. 此时每条染色体由一对染色单体构成,这两条联合的染色体称为四分体. 
+3. The Y chromosome is starting to yield other intriguing tales as well. Y染色体开始讲出另一些令人神往的故事. 
+1. One such CNV was a deletion on chromosome 13. 
+2. The faulty gene causes this disruption in the chromosome. 
+3. The SRY gene can end up on an X chromosome.

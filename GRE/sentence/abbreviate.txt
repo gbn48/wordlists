@@ -1,0 +1,4 @@
+
+1. Also , try to avoid abbreviations. If you must abbreviate, use standard abbreviations. 避免用缩略语, 如果必须, 要用标准缩略语. 
+2. We shall abbreviate'directed graph'to digraph. 我们将把“有方向的图”简称为方向图. 
+3. She had lost the power to abbreviate the remaining steps of the way. 她丧失了缩短这最后几步路的能力.

@@ -1,0 +1,5 @@
+colander
+
+英 [ ˈkʌləndə(r) ]
+美 [ ˈkɑ:ləndə(r) ]
+n.滤器，漏勺

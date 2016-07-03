@@ -1,0 +1,3 @@
+interrupt
+
+nterrupt v中断,遮断,阻碍;打断(话),打扰

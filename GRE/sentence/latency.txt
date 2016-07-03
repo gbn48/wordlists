@@ -1,0 +1,7 @@
+
+1. Optimize for responsiveness; accommodate latency. 优化响应能力, 调节延迟时间. 
+2. For God sakes , Alvy, even Freud speaks of a latency period! 拜托,艾尔维, 即使弗洛伊德都说有性潜伏期! 
+3. Six studies gave results for malignant brain tumours in that latency group. 有六个研究在潜伏期的族群当中发现恶性脑瘤. 
+1. There, you can work locally without latency. 
+2. Then network latency can become the issue. 
+3. Both cause disease after a long latency.

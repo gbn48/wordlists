@@ -1,0 +1,1 @@
+Radar does this to remove ground clutter, information about the hills or buildings that it doesn't need. 雷达借此可以清除地面杂乱回波及关于山丘、建筑物等不必要的信息。

@@ -1,0 +1,3 @@
+trend
+[trend]
+n倾向,趋势 vi伸向,倾向

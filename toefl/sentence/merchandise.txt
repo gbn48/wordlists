@@ -1,0 +1,1 @@
+You have to return merchandises 2 weeks from the time it was purchased. 必须在购买后的两个星期内归还商品。

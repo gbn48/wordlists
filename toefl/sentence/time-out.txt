@@ -1,0 +1,1 @@
+A time-out during which a buzzer was sounded for each incorrect response. 每次它做出错误反应时都会有一个暂停并且会有蜂鸣。

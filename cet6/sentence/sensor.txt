@@ -1,0 +1,7 @@
+
+1. The gauge relies upon a sensor in the tank to relay the fuel level. 油表靠油箱里的感应器来显示燃料的液位。 
+2. The temperature sensor is making the computer think the engine is cold when, in fact, it's hot. 温度传感器发给计算机的信息为发动机是冷却的，可实际上它的温度很高。 
+3. If you buy a drier, look for one with a sensor which switches off when clothes are dry. 你若要买烘干机，找一台带感应器的，可以在衣服干的时候自动断电。 
+1. You think you've got something on the sensor. 
+2. It rightly SHOULD trigger people's bad smell sensor. 
+3. Often, sensor-equipped checkpoint mats span the running lanes.

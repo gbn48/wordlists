@@ -1,0 +1,3 @@
+
+1. This is called a rarefaction and is represented by widely spaced dots. 这个区域称为稀疏区,并用疏散的小点表示. 
+2. The classical elementary waves in Riemann solutions include rarefaction wave, shock wave and contact discontinuity. 黎曼解涉及的经典基本波包括疏散波 、 激波和接触间断.

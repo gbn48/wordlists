@@ -1,0 +1,7 @@
+
+1. PF - TEMP are used to reduce API fluid loss less than 5 ml. TEMP用于将API失水降到低于5毫升. 
+2. Specify a different drive in the TEMP environment variable. 在TEMP环境变量中指定其他驱动器. 
+3. Set - off memory; Warning for: set - off, fan, sensor, over box inner temp. 断电 记忆功能: 五功能报警:温度上下偏差 、 传感器、断电 、 风机 、 箱温超温. 
+1. Not put it next to the temp fluctuation chart. 
+2. Try to fit a random walk function with global temp. 
+3. Perhaps some unpredictable variables have greater influence on global temp.

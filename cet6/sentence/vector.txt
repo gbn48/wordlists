@@ -1,0 +1,7 @@
+
+1. An axial vector may itself enter into a vector product. 轴矢量自身可参与矢积. 
+2. The direction of the electric field vector is indicated in each picture. 每张照片上都标出了电场矢量的方向. 
+3. Vector is a useless survival, or offshoot from quaternions. 向量是无用的幸存物或四元数的无价值的支流. 
+1. With time, we have this vector of events. 
+2. Vector analysis in higher dimensions yields the same results. 
+3. But that topic is not strictly a vector control one.

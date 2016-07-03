@@ -1,0 +1,7 @@
+
+1. A huge arms cache was discovered by police. 警方发现了大批私藏的军火。 
+2. Police discovered a cache of weapons in the room. 警方在房间里发现了一批隐藏的武器. 
+3. In your Web browser's cache are the most recent Web files that you have downloaded. 网页浏览器的高速缓存区里有你最近下载的网页文件。 
+1. Data caching We cache the data returned from the services. 
+2. Netscape recommends a disk cache of between 2 and 5 megabytes. 
+3. Have you tried emptying your browser cache before loading the page?

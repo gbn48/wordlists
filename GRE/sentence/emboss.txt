@@ -1,0 +1,4 @@
+
+1. Use the image below for the values of the Bevel and Emboss. 用这个底层的图片为斜面与浮雕设置值. 
+2. Sticking and stitching tongue emboss Sticking and stitching vamp. 贴车舌面烙印商标:贴车后套商标. 
+3. For the bullet hole part it's really simple, we use an Emboss with these settings. 子弹孔部分的样式设置很简单, 我们在这里用了浮雕的效果.

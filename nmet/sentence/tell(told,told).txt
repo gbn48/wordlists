@@ -1,0 +1,3 @@
+tell(told,told)
+[tel]
+vt.告诉,讲述,吩咐

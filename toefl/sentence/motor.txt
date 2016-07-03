@@ -1,0 +1,1 @@
+It is responsible for motor functioning and movements. 它是负责运动机能的。

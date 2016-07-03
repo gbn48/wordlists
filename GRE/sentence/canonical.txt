@@ -1,0 +1,7 @@
+
+1. The quantal features can be obtained by the canonical procedure of quantization. 量子特征可用正则量子化方式得到. 
+2. In particular he sought the canonical form of any pencil. 他特别地找寻任何束的标准型. 
+3. These canonical forms have to existence except in our imagination. 这些正规式并不存在,只是我们的想象. 
+1. It was very canonical but there we are. 
+2. Telling them which page is canonical helps them to make the right decision. 
+3. By 'resolution' we mean to determine a canonical version of a url.

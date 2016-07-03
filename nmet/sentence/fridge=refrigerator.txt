@@ -1,0 +1,3 @@
+fridge=refrigerator
+[rɪˈfrɪdʒəreɪtə(r)]
+n.冰箱

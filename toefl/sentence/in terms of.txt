@@ -1,0 +1,1 @@
+Structures can be analyzed in terms of how they deal with downward forces created by gravity. 建筑师们在分析建筑结构的时候需要将重力对材料的影响考虑在内。

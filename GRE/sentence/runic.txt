@@ -1,0 +1,5 @@
+
+1. The meaning of some runic forms is not always well understood today. 有些北欧古代文字形式的意义在今天并非都能理解清楚。 
+2. Glyph of Icebound Fortitude - Your Icebound Fortitude costs no runic power. 冰封之韧(IceboundFortitude)不再消耗符文能量. 
+3. Golden Spellthread and Runic Spellthread have been slightly improved. 黄金魔法线和符文魔法线被略微加强了. 
+1. The Note is written in a runic argot that is often incomprehensible to the outsider.

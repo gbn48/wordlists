@@ -1,0 +1,7 @@
+
+1. Start the engine, and no popular produce excess jitter, a smooth start. 在启动发动机之后, 风行并没有产生多余抖动, 平稳起步. 
+2. The clock used should be free from significant phase or frequency jitter. 应用的时钟应没有重大的周期或频率的跳动. 
+3. Automatic jitter compensation fuzzy identification system. Quick two - dot type eccentric compensation. 自动跳动补偿模糊识别系统, 快速二点式偏心补偿. 
+1. If jitter exists, the length of this path will fluctuate - correct? 
+2. Multi-tracked vocals pulse and jitter, not unlike the faux-choral approach taken in recent years by Sparks. 
+3. Build quality is highlighted by gold-plated audio inputs and PLL jitter-cleaning circuit technology on all models.

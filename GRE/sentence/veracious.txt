@@ -1,0 +1,4 @@
+
+1. Miss Stackpole was a strictly veracious reporter. 斯坦克波尔小姐是一丝不苟、实事求是的记者. 
+2. A veracious short - term electricity price forecasting can help a market effective bidding decisions. 准确的 短期 电价预测可为市场参与者的竞价策略提供指导,直接影响着参与者的利益. 
+3. Compared the existing image segmentation algorithms, thethe new algorithm is rapid and veracious. 用现有的图像分割算法与本文算法比较, 本文算法处理速度快,分割图像准确.

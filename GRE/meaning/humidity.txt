@@ -1,0 +1,5 @@
+humidity
+
+英 [ hju:ˈmɪdəti ]
+美 [ hjuˈmɪdɪti ]
+n.湿度，湿气

@@ -1,0 +1,10 @@
+
+1. Suppose the width of a rectangle is x metres. 设长方形的宽是x米. 
+2. He handed me a little rectangle of white paper. 他递给我一张小小的长方形白纸片。 
+3. A squared rectangle is a rectangle dissected into at least two squares. 方化矩形是指可以分割成至少两个正方形的矩形. 
+1. Roll out the dough into a rectangle as before. 
+2. The railing framed three sides of a rectangle. 
+3. Roll the dough out into a large rectangle. 
+1. The painting consists of four rectangles. 这幅画是由四个长方形组成的。 
+2. We may define a square as a rectangle with four equal sides. 我们可以把正方形定义为四边相等的矩形。 
+3. He folded his newspaper into a rectangle. 他把报纸叠成一个长方形。

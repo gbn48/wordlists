@@ -1,0 +1,1 @@
+Extraction of water depends on two properties of the aquifer: porosity and permeability. 从地层中取水取决于水层的两个因素：孔隙度和渗透率。

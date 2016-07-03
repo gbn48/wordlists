@@ -1,0 +1,3 @@
+cent
+[sent]
+n.美分（100cents=1dollar）

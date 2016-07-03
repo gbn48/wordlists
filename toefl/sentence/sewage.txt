@@ -1,0 +1,1 @@
+A daily input of water, food, and energy of various kinds is matched by an output of sewage, solid waste, air pollutants, energy. 每天输入水、食物和各种各样的能量，相应的输出废水、废气、固体垃圾和废能。

@@ -1,0 +1,5 @@
+parameter
+
+英 [ pəˈræmɪtə(r) ]
+美 [ pəˈræmɪtɚ ]
+n.参量，变量

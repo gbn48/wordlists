@@ -1,0 +1,3 @@
+phrase
+[freiz]
+n短语,词语,习语

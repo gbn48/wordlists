@@ -1,0 +1,5 @@
+enzyme
+
+英 [ ˈenzaɪm ]
+美 [ ˈɛnzaɪm ]
+n.酵素，酶

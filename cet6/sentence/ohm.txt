@@ -1,0 +1,7 @@
+
+1. The electric resistance is measured in ohm. 电阻的测量单位是欧姆。 
+2. The resistivity is then constant and Ohm's law is obeyed. 因此电阻率也是常数,并遵循欧姆定律. 
+3. Hence comes the name of Ohm's Law. 欧姆定律就是由此命名的. 
+1. Even the omega for ohm is a capital Greek letter. 
+2. However, Ohm's Law cannot generate a theory of the atom. 
+3. Ohm s Law and Schrodinger s eqn and many others are readily proven numerically.

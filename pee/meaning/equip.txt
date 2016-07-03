@@ -1,0 +1,3 @@
+equip
+[i'kwip]
+v(with)装备,配备;训练

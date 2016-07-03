@@ -1,0 +1,2 @@
+starve
+vi.饿死 vt.使饿死 

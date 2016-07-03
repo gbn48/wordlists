@@ -1,0 +1,2 @@
+temperature
+n.温度；体温 

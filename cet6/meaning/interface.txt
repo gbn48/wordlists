@@ -1,0 +1,2 @@
+interface
+n.分界面

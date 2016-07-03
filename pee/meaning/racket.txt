@@ -1,0 +1,3 @@
+racket
+['rækit]
+n球拍

@@ -1,0 +1,1 @@
+Water clocks misbehaved when the temperature fell toward freezing, to say nothing of long-run drift as the result of sedimentation and clogging. 水钟表在水温下降到冰点时会出错，更不用说长期漂浮的东西因为下沉或堵塞而无法工作。

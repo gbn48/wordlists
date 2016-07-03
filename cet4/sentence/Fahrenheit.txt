@@ -1,0 +1,7 @@
+
+1. By mid-morning, the temperature was already above 100 degrees Fahrenheit. 到早上10点钟，温度已经超过100华氏度了。 
+2. The thermometer shows the temperature in Celsius and Fahrenheit. 这支温度计标有摄氏和华氏两种温度。 
+3. Highest temperatures 11º Celsius, that's 52º Fahrenheit. 最高温度11摄氏度，即52华氏度。 
+1. Degrees are the unit of measure on the Fahrenheit scale. 
+2. When the Fahrenheit records were converted to Celsius. 
+3. He plots the temperatures in Fahrenheit, Celsius, Kelvin, and Rankin.

@@ -1,0 +1,1 @@
+Bug is the word for problems in the program code. “bug”一词是指编程码存在的问题。

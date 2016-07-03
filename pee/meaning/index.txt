@@ -1,0 +1,3 @@
+index
+['indeks]
+n(plindexes,indices)索引 v附以索引

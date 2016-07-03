@@ -1,0 +1,5 @@
+fail-safe
+
+英 [ feɪl seɪf ]
+美 [ feɪl seɪf ]
+n. 自动防故障装置

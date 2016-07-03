@@ -1,0 +1,5 @@
+credo
+
+英 [ ˈkri:dəʊ ]
+美 [ ˈkri:doʊ ]
+n. 信条

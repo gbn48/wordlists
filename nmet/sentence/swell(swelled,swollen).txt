@@ -1,0 +1,3 @@
+swell(swelled,swollen)
+[swel]
+v.肿胀

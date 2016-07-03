@@ -1,0 +1,1 @@
+Echolocation is pretty self-explanatory, using echoes reflected sound waves to located things. 回声定位，顾名思义，就是用回声反射声波来定位事物。

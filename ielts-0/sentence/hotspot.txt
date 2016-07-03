@@ -1,0 +1,7 @@
+
+1. For the standard arrow , the hotspot is , logically, the tip of the arrow. 对于标准箭头, 逻辑上热点是箭头尖部. 
+2. Regardless of the shape the cursor assumes, it always has a single hotspot pixel. 无论光标的形状如何, 它都有一个热点像素. 
+3. However, the politics surrounding HotSpot are shrouded in controversy. 然而, 围绕HotSpot的内部关系政策还处于争论之中. 
+1. The park is known as a hotspot of biodiversity. 
+2. The example of this is the missing tropospheric hotspot. 
+3. Borough has not traditionally been a theatrical hotspot.

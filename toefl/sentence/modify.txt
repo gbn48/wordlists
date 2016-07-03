@@ -1,0 +1,1 @@
+Wind movements also modified in cities because buildings increase the friction on air flowing around them. 气流会因为城市建筑的摩擦而改变。

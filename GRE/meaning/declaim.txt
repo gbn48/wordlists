@@ -1,0 +1,5 @@
+declaim
+
+英 [ dɪˈkleɪm ]
+美 [ dɪˈklem ]
+v.高谈阔论

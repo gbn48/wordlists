@@ -1,0 +1,3 @@
+locust
+[ˈləʊkəst]
+n.蝗虫

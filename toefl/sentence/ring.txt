@@ -1,0 +1,1 @@
+Each ring represents one year of the tree's life. 一个年轮代表了树木生长了一年。

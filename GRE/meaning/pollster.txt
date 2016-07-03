@@ -1,0 +1,5 @@
+pollster
+
+英 [ ˈpəʊlstə(r) ]
+美 [ ˈpoʊlstə(r) ]
+n.民意测验家

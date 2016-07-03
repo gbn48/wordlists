@@ -1,0 +1,3 @@
+send
+[send]
+v(sent,sent)打发；派遣 送；寄出

@@ -1,0 +1,3 @@
+disk=disc
+[dɪsk]
+n.磁盘

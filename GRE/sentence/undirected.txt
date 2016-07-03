@@ -1,0 +1,7 @@
+
+1. Unenlightened and undirected, I can do so little. 但若得不到启蒙和指导，我就差不多无能为力了。 
+2. A circ is an undirected graph having only vertices of even nonzero degree. 一广义圈是一无向图,其顶点次数都是非零偶数. 
+3. This paper shows that undirected circulant graphs must contain efficient dominating sets. 该文证明了无向循环图一定存在有效控制集. 
+1. He had...an undirected, if intense, desire to write. 
+2. They're all fatuous, self-obsessed, undirected, confused, emotional retards. 
+3. Personally, I find it very hard to believe that these elements came about through an undirected process.

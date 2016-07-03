@@ -1,0 +1,3 @@
+sentiment
+['sentimənt]
+n感情，柔情；看法；感觉

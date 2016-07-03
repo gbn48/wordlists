@@ -1,0 +1,2 @@
+interpreter
+解释者、翻译员 

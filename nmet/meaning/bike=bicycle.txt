@@ -1,0 +1,3 @@
+bike=bicycle
+[baɪk]
+n.自行车

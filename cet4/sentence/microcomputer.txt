@@ -1,0 +1,5 @@
+
+1. Status flags represent one of the simplest forms of microcomputer logic. 状态标志是微计算机逻辑中的一种最简单的形式之一. 
+2. A newly - devised microcomputer can act as a guide to a blind person. 一种新设计的微型计算机能够充任盲人的向导. 
+3. A commonly used microcomputer algorithm for multiplication. 微型计算机一种常用的乘法算法. 
+1. That's because it gave businesspeople a reason to spend a lot of money on a new microcomputer.

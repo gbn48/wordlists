@@ -1,0 +1,3 @@
+vertical-axis
+
+垂直轴；纵轴

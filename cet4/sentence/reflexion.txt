@@ -1,0 +1,4 @@
+
+1. The dark areas of the reflexion map aren't really black. 反射贴图的黑色部分其实并不全黑。 
+2. FS Reflexion works with a seismic vibration system. FS是由地震的震动工作原理. 
+3. Using the dynamical reflexion theory, the selective reflection characters of cholesteric liquid crystals are analyzed. 利用动态反射法对手性液晶材料的选择性反射特性进行了分析.

@@ -1,0 +1,10 @@
+
+1. It is common that a single requirement will necessitate multiple interface elements. 一个需求可以由多个界面元素来满足,这种情况比较普遍. 
+2. To map 100 mutants by this method would necessitate nearly 5,000 crosses. 用这种方法来绘制100个突变型的遗传图就要做5000个杂交. 
+3. Moving the piano will necessitate taking the door off its hinges. 搬钢琴就得把门从铰链上拿下来. 
+1. Kesselman sets aside Chekhov's philosophical concerns does greatness necessitate madness? 
+2. Such an accomplishment would necessitate all the attributes and perspective of deity. 
+3. The new study will necessitate some adjustments to the catalog, he said. 
+1. Your broken leg necessitated an operation. 你的断腿需要手术。 
+2. His crime necessitated punishment. 他的罪行必须给以惩治。 
+3. Lack of money necessitated a change of plan. 由于缺乏资金,就有必要改变计划。

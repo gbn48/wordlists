@@ -1,0 +1,7 @@
+
+1. Pressure varies directly with temperature and inversely with volume. 压力随温度成正比例变化,与容积成反比例变化. 
+2. The size of the nebula at this stage is inversely proportional to its mass. 这个阶段星云的大小与其质量成反比。 
+3. The amount of force needed is inversely proportional to the rigidity of the material. 需要的力度与材料的硬度成反比. 
+1. Wave length is related inversely to wave length. 
+2. Daily hours of sunshine are inversely proportional to amount of rain. 
+3. Bond yields move inversely to their prices.
